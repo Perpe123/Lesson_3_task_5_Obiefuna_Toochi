@@ -169,11 +169,11 @@ header nav a {
     margin-right: 20px;
     font-size: 15px;
     text-decoration: none;
-    color: wheat;
-  }
+    color: rgb(146 96 2);
+}
   
   header nav a:hover {
-    color: rgb(230 168 53);
+    opacity: 0.4;
   }
   
   .heading {
@@ -199,7 +199,7 @@ main {
   display: flex;
   flex-direction: column;
   padding: 10px;
-  transition: all 1s;
+  transition: all 1s ease-in-out;
 }
 
 .content:hover {
@@ -299,7 +299,6 @@ footer p {
         margin-right: 25px;
         font-size: 20px;
         text-decoration: none;
-        color: wheat;
     }
 }
 
@@ -325,6 +324,5 @@ footer p {
         margin-right: 25px;
         font-size: 20px;
         text-decoration: none;
-        color: wheat;
     }
 }

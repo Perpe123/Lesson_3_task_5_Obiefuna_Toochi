@@ -6,7 +6,7 @@
 
 ##ensure you have node js installed in your machine
 
-##open your terminal and run "git clone "
+##open your terminal and run "git clone git@github.com:promise-J/LM-tech-Template.git ./ "
 
 ##run "npm install"
 
